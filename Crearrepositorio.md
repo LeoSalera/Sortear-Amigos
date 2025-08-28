@@ -1,5 +1,9 @@
 <h1> Creando el sorteo de amigos</h1>
--Estado del sorteo: En proceso
+-Estado del sorteo: TERMINADO
+
+
+
+
 
 
 // El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
